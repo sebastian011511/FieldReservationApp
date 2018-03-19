@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Polsat Sport Field Reservation App</string>
+    <string name="text_reminder">Text Reminder</string>
+    <string name="call_reminder">Call</string>
+    <string name="logo_description">Logo</string>
+    <string name="date_picker_title">Pick Date of Reservation</string>
+    <string name="time_picker_title">Pick Time of Reservation</string>
+    <string name="name_of_reservation">Leave a name on Reservation</string>
+    <string name="phone_number">Contact Phone Number</string>
+    <string name="explanation">To reserve your spot, please enter your name, phone number, choose your date and time,
+    and select either a text or call to confirm reservation. Thank you.</string>
+    <string name="reservation_text_subject">Polsat Sport Reservation</string>
+    <string name="send_report">Send crime report via</string>
+
+
+    <string name="reservation_report">Congratulations! Your reservation was set for
+    %1s at %2s sharp under %3s.  Thank you fou reserving with us!</string>
+
+</resources>
